@@ -1,5 +1,3 @@
-ok
-
 ## Introduction
 
 This assignment uses data from
