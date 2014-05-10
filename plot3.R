@@ -37,5 +37,5 @@ legend("topright",
 ###########################
 # save as png
 
-dev.copy(png, file = "plot33333.png",height=480, width=480, bg="transparent")
+dev.copy(png, file = "plot3.png",height=480, width=480, bg="transparent")
 dev.off()
